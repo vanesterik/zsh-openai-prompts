@@ -1,0 +1,3 @@
+completions() {
+    echo "completions"
+}
