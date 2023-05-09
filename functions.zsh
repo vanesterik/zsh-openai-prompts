@@ -1,3 +1,0 @@
-completions() {
-    echo "completions"
-}
