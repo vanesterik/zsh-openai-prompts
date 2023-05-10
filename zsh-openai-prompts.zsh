@@ -70,6 +70,11 @@ doc() {
             $requirements"
 }
 
+gen() {
+
+    [ -n "$1" ] && _get_openai_completion "$1"
+}
+
 story() {
 
     [ -n "$1" ] && _get_openai_completion \

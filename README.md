@@ -35,6 +35,7 @@ The plugin comes with the following prompts:
 |-------|-------------------------|
 |`bug`  |Generate bug report      |
 |`doc`  |Generate general document|
+|`gen`  |Ask generic question     |
 |`story`|Generate user story      |
 |`task` |Generate task ticket     |
 
