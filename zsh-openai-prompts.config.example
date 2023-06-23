@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 # OpenAI API Key
 export OPENAI_API_KEY="YOUR_OPENAI_API_KEY"
 
